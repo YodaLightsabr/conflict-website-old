@@ -17,7 +17,7 @@ export default function Home() {
               
         <meta property="og:title" content="Conflict - The Discord framework for the future" />
         <meta property="og:url" content="https://conflict.js.org/" />
-        <meta property="og:image" content="https://conflict.js.org/conflict.svg" />
+        <meta property="og:image" content="https://conflict.js.org/favicon.png" />
         <meta property="og:description" content="The first and only JS framework for Discord bots. Featuring JSX views, command handling, event handling, hooks, state, and more. | https://discord.gg/jCgArsS7ub" />
         <meta property="og:site_name" content="Conflict" />
         <meta property="theme-color" content="#186ce4" />
