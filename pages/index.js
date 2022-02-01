@@ -68,7 +68,7 @@ export default function Home() {
 */}
           <a href="https://discord.gg/Bxtf45CCX7" className={styles.card}>
             <h2>Discuss &rarr;</h2>
-            <p>Join the Conflict Discord server!</p>
+            <p>Join the Conflict Discord server to contribute or get help.</p>
           </a>
 {/*
           <a
