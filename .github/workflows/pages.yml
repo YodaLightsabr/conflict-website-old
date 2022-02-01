@@ -23,6 +23,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      # Install
+      - name: Install
+        run: npm ci
+
       # Build with Next.js
       - name: Build Next.js
         run: npm run build
