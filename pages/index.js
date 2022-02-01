@@ -61,8 +61,8 @@ export default function Home() {
           </a>
 */}
           <a href="https://discord.gg/Bxtf45CCX7" className={styles.card}>
-            <h2>Early Access &rarr;</h2>
-            <p>Get early access and start using Conflict.</p>
+            <h2>Discuss &rarr;</h2>
+            <p>Join the Conflict Discord server!</p>
           </a>
 {/*
           <a
@@ -74,10 +74,10 @@ export default function Home() {
           </a>
 */}
           <a
-            href="https://discord.gg/Bxtf45CCX7"
+            href="https://github.com/yodalightsabr/conflict"
             className={styles.card}
           >
-            <h2>Collaborate &rarr;</h2>
+            <h2>Contribute &rarr;</h2>
             <p>
               Help build the Discord framework you want to use.
             </p>
