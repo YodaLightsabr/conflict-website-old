@@ -10,10 +10,16 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
 
         <title>Conflict</title>
-        <meta name="description" content="The Discord framework for the future" />
+        <meta name="description" content="The first and only JS framework for Discord bots. Featuring JSX views, command handling, event handling, hooks, state, and more. | https://discord.gg/jCgArsS7ub" />
         <link rel="favicon" href="/favicon.png" />
         <link rel="shortcut icon" href="/favicon.png" />
         <link rel="icon" href="/favicon.png" />
+              
+        <meta property="og:title" content="Conflict - The Discord framework for the future" />
+        <meta property="og:url" content="https://conflict.js.org/" />
+        <meta property="og:image" content="https://conflict.js.org/conflict.svg" />
+        <meta property="og:description" content="The first and only JS framework for Discord bots. Featuring JSX views, command handling, event handling, hooks, state, and more. | https://discord.gg/jCgArsS7ub" />
+        <meta property="og:site_name" content="Conflict" />
       </Head>
 
       <main className="text-center my-10" style={{ overflowX: 'hidden' }}>
