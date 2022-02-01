@@ -32,7 +32,8 @@ jobs:
         run: npm run export
 
       # Skip Jekyll build
-      - name: touch out/.nojekyll
+      - name: Skip Jekyll build
+        run: touch out/.nojekyll
 
       # Deploy to GitHub Pages
       - name: Deploy
