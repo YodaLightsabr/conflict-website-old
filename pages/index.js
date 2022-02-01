@@ -20,6 +20,7 @@ export default function Home() {
         <meta property="og:image" content="https://conflict.js.org/conflict.svg" />
         <meta property="og:description" content="The first and only JS framework for Discord bots. Featuring JSX views, command handling, event handling, hooks, state, and more. | https://discord.gg/jCgArsS7ub" />
         <meta property="og:site_name" content="Conflict" />
+        <meta property="theme-color" content="#186ce4" />
       </Head>
 
       <main className="text-center my-10" style={{ overflowX: 'hidden' }}>
