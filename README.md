@@ -1,5 +1,5 @@
 # Conflict
-The first and only JavaScript UI framework for Discord bots
+Conflict is a JavaScript UI framework for Discord bots. [Read more >](https://conflict.js.org)
+This is the official Conflict website.
 
-
-Website
+[GitHub](https://github.com/yodalightsabr/conflict) | [Website](https://conflict.js.org) | [Discord](https://discord.gg/Bxtf45CCX7)
